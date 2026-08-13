@@ -1,8 +1,8 @@
 ---
-site_name: The Blue Book
-site_description: My personal digital garden
-site_author: Lyz
-site_url: https://lyz-code.github.io/blue-book
+site_name: The Garden Beyond
+site_description: A digital garden beyond time, space, and all other facets of reality.
+site_author: Nyxi
+site_url: https://nixashearts.github.io/garden-beyond
 nav:
   - Introduction: index.md
   - Militancy:
@@ -927,9 +927,9 @@ extra_css: [stylesheets/extra.css, stylesheets/links.css]
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/lyz-code
+      link: https://github.com/nixashearts
     - icon: fontawesome/solid/rss
-      link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
+      link: https://nixashearts.github.io/garden-beyond/newsletter/0_newsletter_index
 
-repo_name: lyz-code/blue-book
-repo_url: https://github.com/lyz-code/blue-book
+repo_name: nixashearts/garden-beyond
+repo_url: https://github.com/nixashearts/garden-beyond
