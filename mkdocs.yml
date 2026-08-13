@@ -8,6 +8,9 @@ nav:
   - Test:
       - Nested Test.md
 
+- name: GitHub Pages action
+  uses: peaceiris/actions-gh-pages@v4.1.0
+
 plugins:
   - search
   - exclude-search:
